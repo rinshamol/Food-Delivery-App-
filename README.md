@@ -9,9 +9,10 @@ Users can register or log in with their phone number using **Firebase OTP authen
 ---
 
 ## 🔧 Setup & Installation
+
 1. Clone the repository:
    ```bash
-  https://github.com/rinshamol/Food-Delivery-App-.git
+   https://github.com/rinshamol/Food-Delivery-App-.git
 2. Open in Android Studio.
 
 3. Add your Firebase project config (google-services.json) to the app folder.
